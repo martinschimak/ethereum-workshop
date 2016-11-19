@@ -1,0 +1,6 @@
+Links:
+
+Ether Camp: https://live.ether.camp/
+Solidity Online Compiler: https://ethereum.github.io/browser-solidity/
+Official Solidity Documentation. http://solidity.readthedocs.io
+Workshop Resources: https://github.com/ahirner/ethereum/tree/master/Workshop%16-11-19
