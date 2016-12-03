@@ -1,0 +1,24 @@
+TODO:
+
+in a shell go into att
+
+> npm install
+
+> npm install -g dapple
+
+dapple *must* be installed globally. if you installed it locally by mistake delete dapple from node_modules
+
+> npm run test
+
+output from mocha section should include: '8 passing'
+output from dapple section should end with: 'Passed all 7 tests!'
+
+if it doesn't work, make sure there is no solc in your PATH
+
+
+
+
+commands for later:
+
+geth --dev --rpc
+

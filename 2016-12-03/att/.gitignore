@@ -1,0 +1,4 @@
+**/chain_db/
+node_modules
+generated
+build
