@@ -1,0 +1,16 @@
+
+WIFI: RIAT.AT
+PW: kingofthesloths2
+
+http://192.168.0.109
+get archive.zip
+
+
+
+
+Starting geth correctly:
+
+> geth --dev --rpc --rpccorsdomain '*' --ipcpath /path/to/standard/datadir/geth.ipc console
+
+Enabling CORS on IPFS:
+> ipfs config --json API.HTTPHeaders.Access-Control-Allow-Origin "[\"http://localhost:8000\"]"
